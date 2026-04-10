@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{d3bf158c-c37f-4e9d-b96e-5a687cedb35f}">
+		<property name="assetPath">
+			<value>taverna_export/os/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{4d8ae75f-1349-437d-86d7-315811fa1b68}</destination>
+		</relationship>
+	</object>
+</objects>

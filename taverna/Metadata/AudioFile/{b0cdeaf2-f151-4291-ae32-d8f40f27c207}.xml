@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{b0cdeaf2-f151-4291-ae32-d8f40f27c207}">
+		<property name="assetPath">
+			<value>taverna_export/os/wood/footstep_wood_3.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.43750566893424037</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{4d8ae75f-1349-437d-86d7-315811fa1b68}</destination>
+		</relationship>
+	</object>
+</objects>
