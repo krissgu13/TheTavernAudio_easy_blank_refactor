@@ -416,7 +416,7 @@ MonoBehaviour:
   Path: taverna/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 639114151470183545
+  lastModified: 639126225759520036
   FileSizes:
   - Name: Desktop
     Value: 5942880
@@ -478,7 +478,7 @@ MonoBehaviour:
   StringsBanks:
   - {fileID: 7470726712072849024}
   cacheVersion: 131859
-  cacheTime: 639114151470203593
+  cacheTime: 639126225759530088
   SerializableEventsDict:
   - key: event:/footsteps
     index: 0
@@ -602,8 +602,8 @@ MonoBehaviour:
   Type: 2
   IsGlobal: 0
   Labels:
-  - stone
-  - wood
+  - Stone
+  - Wood
   Exists: 1
 --- !u!114 &2414404041313265525
 MonoBehaviour:
@@ -774,7 +774,7 @@ MonoBehaviour:
   Path: taverna/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 639114151470203593
+  lastModified: 639126225759530088
   FileSizes:
   - Name: Desktop
     Value: 1266
