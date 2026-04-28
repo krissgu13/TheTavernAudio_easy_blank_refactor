@@ -416,10 +416,10 @@ MonoBehaviour:
   Path: taverna/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 639126225759520036
+  lastModified: 639129778559723875
   FileSizes:
   - Name: Desktop
-    Value: 5942880
+    Value: 5944224
   Exists: 1
 --- !u!114 &-1105093738993438188
 MonoBehaviour:
@@ -472,13 +472,14 @@ MonoBehaviour:
   - {fileID: 2328969780332358985}
   - {fileID: -5840691872655589939}
   - {fileID: -7122752056721215601}
+  - {fileID: 4188701685951290420}
   EditorParameters: []
   MasterBanks:
   - {fileID: -1853968141187816764}
   StringsBanks:
   - {fileID: 7470726712072849024}
   cacheVersion: 131859
-  cacheTime: 639126225759530088
+  cacheTime: 639129778559743899
   SerializableEventsDict:
   - key: event:/footsteps
     index: 0
@@ -498,6 +499,8 @@ MonoBehaviour:
     index: 7
   - key: event:/amb_forest
     index: 8
+  - key: snapshot:/Outside
+    index: 9
 --- !u!114 &198607098773900837
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -705,6 +708,33 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 135985
+--- !u!114 &4188701685951290420
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: snapshot:/Outside
+  m_EditorClassIdentifier: 
+  Path: snapshot:/Outside
+  Guid:
+    Data1: 634676744
+    Data2: 1327891329
+    Data3: -1200538478
+    Data4: -54094279
+  Banks:
+  - {fileID: -1853968141187816764}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 0
 --- !u!114 &4467423361172991963
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -774,8 +804,8 @@ MonoBehaviour:
   Path: taverna/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 639126225759530088
+  lastModified: 639129778559743899
   FileSizes:
   - Name: Desktop
-    Value: 1266
+    Value: 1388
   Exists: 1
